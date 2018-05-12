@@ -12,6 +12,8 @@ creator:
     gutenberg_agent_id: '9405'
     url: http://www.gutenberg.org/2009/agents/9405
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/41424#The-Tribes-and-Castes-of-the-Central-Provinces-of-IndiaVolume-3-of-4
 gutenberg_issued: '2012-11-21'
 gutenberg_type: Text
 identifiers:
