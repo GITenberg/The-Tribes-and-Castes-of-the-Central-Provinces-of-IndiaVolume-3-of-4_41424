@@ -1,0 +1,30 @@
+_repo: The-Tribes-and-Castes-of-the-Central-Provinces-of-IndiaVolume-3-of-4_41424
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 41424-h/images/new-cover.jpg
+creator:
+  author:
+    agent_name: Russell, R. V. (Robert Vane)
+    alias: Russell, Robert Vane
+    birthdate: 1873
+    deathdate: 1915
+    gutenberg_agent_id: '9405'
+    url: http://www.gutenberg.org/2009/agents/9405
+description: ''
+gutenberg_issued: '2012-11-21'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '41424'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Ethnology -- India -- Madhya Pradesh'
+- !lcsh 'Caste -- India -- Madhya Pradesh'
+- !lcsh 'Madhya Pradesh (India) -- Religion'
+- !lcc 'DS'
+- !lcsh 'Madhya Pradesh (India) -- Scheduled tribes'
+title: The Tribes and Castes of the Central Provinces of India, Volume 3
+url: http://www.gutenberg.org/ebooks/41424
